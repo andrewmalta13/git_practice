@@ -1,4 +1,7 @@
 java_practice
 =============
 
-Learning some GIT.
+Learning some GIT. (Andrew)
+Learning some Java. (Kevin)
+
+
